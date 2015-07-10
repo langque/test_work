@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>343EA8BF-63BF-4D42-B337-C2C3F6B6AF16</string>
+	<key>IDESourceControlProjectName</key>
+	<string>runing_man</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DB2A9B9B9226D7969634F3D84482B75B5626F7A</key>
+		<string>https://github.com/langque/test_work.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>runing_man/runing_man.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5DB2A9B9B9226D7969634F3D84482B75B5626F7A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/langque/test_work.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DB2A9B9B9226D7969634F3D84482B75B5626F7A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DB2A9B9B9226D7969634F3D84482B75B5626F7A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>test_work</string>
+		</dict>
+	</array>
+</dict>
+</plist>
